@@ -1,2 +1,7 @@
 # Bi1121
-Git prvy
+gh 
+nu
+
+
+
+
